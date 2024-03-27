@@ -1,4 +1,4 @@
-# Install the required MySQL package m
+# Install the required MySQL package mo
 
 sudo apt-get update -y
 sudo apt-get install mysql-client -y
